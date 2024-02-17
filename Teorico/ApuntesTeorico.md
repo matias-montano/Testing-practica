@@ -27,14 +27,15 @@ Por lo tanto, los requerimientos funcionales:
 - Son los que más influyen en si la solución será aceptada o no por los usuarios.
 
 
-
-
 <div id="footnotes">
 <hr>
 <ol>
 <li id="fn:1">
-<p> https://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/qa-caso-de-uso-vs-caso-de-prueba/ <a href="#fnref:1" rev="footnote">↩</a></p>
+<p><a href="https://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/qa-caso-de-uso-vs-caso-de-prueba/" rel="footnote">https://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/qa-caso-de-uso-vs-caso-de-prueba/</a> <a href="#fnref:1" rev="footnote">↩</a></p>
+</li>
 
 <li id="fn:2">
-<p> https://www.pmoinformatica.com/2018/05/que-es-requerimiento-funcional.html <a href="#fnref:2" rev="footnote">↩</a></p>
+<p><a href="https://www.pmoinformatica.com/2018/05/que-es-requerimiento-funcional.html" rel="footnote">https://www.pmoinformatica.com/2018/05/que-es-requerimiento-funcional.html</a> <a href="#fnref:2" rev="footnote">↩</a></p>
 </li>
+</ol>
+</div>

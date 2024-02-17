@@ -6,6 +6,9 @@ En este repositorio se encuentra un pequeno resumen de Testing. La mayoria de es
 
 Se puede ver [ApuntesTeorico.md](Teorico/ApuntesTeorico.md)
 
+## Obligatorios
+
+Para eso ver los documentos en [obligatorios](obligatorios/)
 
 <div id="footnotes">
 <hr>

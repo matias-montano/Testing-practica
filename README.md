@@ -19,5 +19,5 @@ El [caso de prueba][1] es la condición establecida sobre una funcionalidad a ba
 
 Para cada caso de prueba se debe definir el campo en el que se realiza (el contexto de la prueba), descripción de la acción, y finalmente su resultado deseado.
 
-[^1]: (https://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/qa-caso-de-uso-vs-caso-de-prueba/)
+[1]: (https://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/qa-caso-de-uso-vs-caso-de-prueba/)
 

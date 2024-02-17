@@ -1,0 +1,26 @@
+# Teorico
+
+## Caso de uso
+
+El caso de uso <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> es la descripción del conjunto de interacciones del sistema con uno, o varios actores, para alcanzar un objetivo.
+
+Éstos nos sirven como técnica para la especificación (agrupación) de requisitos funcionales… De ahí que nos refiramos al caso de uso para determinar una funcionalidad particular, o un grupo de funcionalidades relacionadas.
+
+Por otra parte, un caso de uso debe contemplar las múltiples rutas posibles que el usuario puede seguir para llevar a cabo el proceso, llamando escenario a cada una de estas posibles rutas.
+
+## Caso de prueba
+
+El caso de prueba <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  es la condición establecida sobre una funcionalidad a bajo nivel del aplicativo para determinar su corrección; es decir, el cumplimiento del resultado esperado en base a las directrices que nos marque el funcional.
+
+Para cada caso de prueba se debe definir el campo en el que se realiza (el contexto de la prueba), descripción de la acción, y finalmente su resultado deseado.
+
+<div id="footnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p> https://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/qa-caso-de-uso-vs-caso-de-prueba/ <a href="#fnref:1" rev="footnote">↩</a></p>
+</li>
+</ol>
+</div>
+
+

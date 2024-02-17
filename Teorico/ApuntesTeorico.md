@@ -34,15 +34,7 @@ Por lo tanto, los requerimientos funcionales:
 <ol>
 <li id="fn:1">
 <p> https://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/qa-caso-de-uso-vs-caso-de-prueba/ <a href="#fnref:1" rev="footnote">↩</a></p>
-</li>
-</ol>
-</div>
 
-<div id="footnotes">
-<hr>
-<ol>
 <li id="fn:2">
 <p> https://www.pmoinformatica.com/2018/05/que-es-requerimiento-funcional.html <a href="#fnref:2" rev="footnote">↩</a></p>
 </li>
-</ol>
-</div>

@@ -16,7 +16,7 @@ Para cada caso de prueba se debe definir el campo en el que se realiza (el conte
 
 ## Requerimientos funcionales
 
-Los requerimientos funcionales <sup id="fnref:2"><a href="#fn:2" rel="footnote">1</a></sup>   son las descripciones explicitas del comportamiento que debe tener una solución de software y que información debe manejar.
+Los requerimientos funcionales <sup id="fnref:2"><a href="#fn:2" rel="footnote">  2  </a></sup>   son las descripciones explicitas del comportamiento que debe tener una solución de software y que información debe manejar.
 
 
 Por lo tanto, los requerimientos funcionales:

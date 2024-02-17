@@ -4,7 +4,7 @@ En este repositorio se encuentra un pequeno resumen de Testing. La mayoria de es
 
 ## teorico
 
-Se puede ver [ApuntesTeorico.md](ApuntesTeorico.md)
+Se puede ver [ApuntesTeorico.md](Teorico/ApuntesTeorico.md)
 
 
 <div id="footnotes">

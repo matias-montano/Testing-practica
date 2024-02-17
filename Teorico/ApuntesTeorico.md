@@ -14,6 +14,21 @@ El caso de prueba <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>  
 
 Para cada caso de prueba se debe definir el campo en el que se realiza (el contexto de la prueba), descripción de la acción, y finalmente su resultado deseado.
 
+## Requerimientos funcionales
+
+Los requerimientos funcionales <sup id="fnref:2"><a href="#fn:2" rel="footnote">1</a></sup>   son las descripciones explicitas del comportamiento que debe tener una solución de software y que información debe manejar.
+
+
+Por lo tanto, los requerimientos funcionales:
+
+- Expresan las capacidades o cualidades que debe tener la solución para satisfacer los requerimientos de los interesados de proyecto.
+- Se expresan en términos de cuál debe ser el comportamiento de la solución y que información debe manejar.
+- Deben proporcionar una descripción lo suficientemente detallada para permitir el desarrollo e implementación de la solución.
+- Son los que más influyen en si la solución será aceptada o no por los usuarios.
+
+
+
+
 <div id="footnotes">
 <hr>
 <ol>
@@ -23,4 +38,11 @@ Para cada caso de prueba se debe definir el campo en el que se realiza (el conte
 </ol>
 </div>
 
-
+<div id="footnotes">
+<hr>
+<ol>
+<li id="fn:2">
+<p> https://www.pmoinformatica.com/2018/05/que-es-requerimiento-funcional.html <a href="#fnref:2" rev="footnote">↩</a></p>
+</li>
+</ol>
+</div>
